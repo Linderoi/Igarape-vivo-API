@@ -42,7 +42,7 @@ POST http://localhost:8080/api/monitoring?sensorName=Sensor1&measurementValue=80
 
 Clone o repositório:
 
-git clone https://github.com/seuusuario/igarape-vivo-api.git
+git clone https://github.com/Linderoi/Igarape-vivo-API/tree/main
 cd igarape-vivo-api
 
 Abra no IntelliJ IDEA como projeto Maven.
