@@ -79,7 +79,7 @@ Lista todos os dados registrados.
 
 Interface da aplicação:
 
-https://github.com/seu-usuario/igarape-vivo-frontend
+https://github.com/Linderoi/igarape-vivo-frontend
 
 ## 👨‍💻 Autor
 Projeto desenvolvido por mim atraves de um desafio da Alura (foco no back-end e lógica da aplicação).
